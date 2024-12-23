@@ -1,0 +1,95 @@
+---
+import HeaderLink from './HeaderLink.astro';
+import { SITE_TITLE } from '../consts';
+import { Image } from 'astro:assets';
+import TempleLogo from '../content/images/TempleLogoSmall.png';
+---
+
+<header>
+	<nav>
+		<h2><a href="/">{SITE_TITLE} <Image width="32" height="32" style="" src={TempleLogo}  alt="Temple Logo" title="Temple Logo" /></a></h2>
+		<div class="internal-links">
+			<HeaderLink href="/about">About</HeaderLink>
+			<HeaderLink href="/weddings-1">Weddings</HeaderLink>
+			<HeaderLink href="/life-ceremonies">Life Ceremonies</HeaderLink>
+			<HeaderLink href="/fire-festivals">Fire Festivals</HeaderLink>
+			<HeaderLink href="/aisling-eala">Aisling Eala</HeaderLink>
+			<HeaderLink href="/workshops">Workshops</HeaderLink>
+			<HeaderLink href="http://eepurl.com/i6wdPE" target="_parent">NewsLetter</HeaderLink>
+			<!-- <HeaderLink href="/services-7">Most Recent Newsletter</HeaderLink> -->
+			<HeaderLink href="/blog">Blog</HeaderLink>
+			<HeaderLink href="/event-info">Events</HeaderLink>
+
+		</div>
+		<div class="social-links">
+		
+		<div class="social-links">
+			<a href="https://www.facebook.com/templeofeiriu">			<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" viewBox="0 0 48 48" version="1.1">
+				<defs>
+		
+		</defs>
+				<g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+						<g id="Color-" transform="translate(-200.000000, -160.000000)" fill="#4460A0">
+								<path d="M225.638355,208 L202.649232,208 C201.185673,208 200,206.813592 200,205.350603 L200,162.649211 C200,161.18585 201.185859,160 202.649232,160 L245.350955,160 C246.813955,160 248,161.18585 248,162.649211 L248,205.350603 C248,206.813778 246.813769,208 245.350955,208 L233.119305,208 L233.119305,189.411755 L239.358521,189.411755 L240.292755,182.167586 L233.119305,182.167586 L233.119305,177.542641 C233.119305,175.445287 233.701712,174.01601 236.70929,174.01601 L240.545311,174.014333 L240.545311,167.535091 C239.881886,167.446808 237.604784,167.24957 234.955552,167.24957 C229.424834,167.24957 225.638355,170.625526 225.638355,176.825209 L225.638355,182.167586 L219.383122,182.167586 L219.383122,189.411755 L225.638355,189.411755 L225.638355,208 L225.638355,208 Z" id="Facebook">
+		
+		</path>
+						</g>
+				</g>
+		</svg></a>
+			<a title="suggest changes" href="https://github.com/TempleofEiriu/TempleofEiriu.github.io" target="_blank">
+				<span class="sr-only">Go to TempleofEiriu's GitHub repo</span>
+				<svg viewBox="0 0 16 16" aria-hidden="true" width="32" height="32"
+					><path
+						fill="currentColor"
+						d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"
+					></path></svg
+				>
+			</a>
+		</div>
+	</nav>
+</header>
+<style>
+	img {
+    margin-block: -0.5rem;
+    border-radius: 0.75rem;
+  }
+	header {
+		margin: 0;
+		padding: 0 1em;
+		background: white;
+		box-shadow: 0 2px 8px rgba(var(--black), 5%);
+	}
+	h2 {
+		margin: 0;
+		font-size: 1em;
+	}
+
+	h2 a,
+	h2 a.active {
+		text-decoration: none;
+	}
+	nav {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+	}
+	nav a {
+		padding: 1em 0.5em;
+		color: var(--black);
+		border-bottom: 4px solid transparent;
+		text-decoration: none;
+	}
+	nav a.active {
+		text-decoration: none;
+		border-bottom-color: var(--accent);
+	}
+	.social-links,
+	.social-links a {
+		display: flex;
+	}
+	@media (max-width: 720px) {
+		.social-links {
+			display: none;
+		}
+	}
+</style>

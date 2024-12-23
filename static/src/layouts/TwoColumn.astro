@@ -1,0 +1,54 @@
+---
+interface Props {
+  imgSrc: string;
+  imgAlt: string;
+  imageOnLeft?: boolean;
+}
+
+const { imgSrc, imgAlt, imageOnLeft = true } = Astro.props;
+---
+
+<div class="two-column-layout">
+  {imageOnLeft ? (
+    <>
+      <div class="image-container">
+        <img src={imgSrc} alt={imgAlt} />
+      </div>
+      <div class="content-container">
+        <slot />
+      </div>
+    </>
+  ) : (
+    <>
+      <div class="content-container">
+        <slot />
+      </div>
+      <div class="image-container">
+        <img src={imgSrc} alt={imgAlt} />
+      </div>
+    </>
+  )}
+</div>
+
+<style>
+  .two-column-layout {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    align-items: center;
+    margin: 2rem 0;
+  }
+
+  .image-container img {
+    width: 100%;
+    height: auto;
+    border-radius: 0.5rem;
+  }
+
+  @media (max-width: 768px) {
+    .two-column-layout {
+      grid-template-columns: 1fr;
+      gap: 1rem;
+    }
+  }
+</style>

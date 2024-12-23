@@ -1,0 +1,38 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import Home from '../content/blog/home.md'
+// import Imbolc_Weaver_2025 from '../content/eventinfo/weaving-imbolc-2025.md'
+// import BlogPost from '../layouts/BlogPost.astro';
+// // render content for blog post home
+// import { render } from 'astro:content';
+// // get collection blog['home']
+// import { CollectionEntry } from 'astro:content';
+
+// const blogs = await render(CollectionEntry['blog']);
+// const homeBlog = blogs.filter((blog) => blog.slug === 'home');
+// const homeBlogContent = homeBlog[0].content;
+// const Content = render(homeBlogContent)
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<!-- <Imbolc_Weaver_2025 /> -->
+			<Home />
+			<!-- <BlogPost>
+			<Content />
+			</BlogPost> -->
+
+
+		</main>
+		<Footer />
+	</body>
+</html>

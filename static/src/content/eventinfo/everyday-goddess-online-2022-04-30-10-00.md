@@ -1,0 +1,36 @@
+---
+title: Everyday Goddess Online | Temple of Éiriú - Ce
+startDate: '2022-04-30T10:00:00'
+endDate: '2022-04-30T18:00:00'
+heroImage: ../images/e6f2bb5b35.jpeg
+hosts: []
+description: An online training and mentorship supporting the rising feminine in returning to the sacred power of her sexuality.
+location: Online event
+url: https://templeofeiriu.github.io/event-info/everyday-goddess-online-2022-04-30-10-00
+---
+![Image 8: Everyday Goddess Online](../images/e6f2bb5b35.jpeg)
+
+![Image 9: Everyday Goddess Online](../images/e6f2bb5b35.jpeg)
+
+Sat, 30 Apr
+
+|Online event
+
+
+An online training and mentorship supporting the rising feminine in returning to the sacred power of her sexuality.
+
+Tickets are not on sale
+
+[See other events](https://templeofeiriu.github.io/)
+
+Time & Location
+---------------
+
+30 Apr 2022, 10:00 – 18:00
+
+Online event
+
+
+*   [![Image 10: Facebook](https://templeofeiriu.github.io/event-info/everyday-goddess-online-2022-04-30-10-00)](https://www.facebook.com/templeofeiriu)
+
+
