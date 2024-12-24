@@ -1,6 +1,6 @@
 ---
 title: Light Wheels Meditation with Jay | Temple of Éiriú - Ce
-url: https://templeofeiriu.github.io/event-info/light-wheels-meditation-with-jay
+url: https://www.templeofeiriu.ie/event-info/light-wheels-meditation-with-jay
 startDate: '2024-07-31T21:00:00'
 endDate: '2024-07-31T22:30:00'
 heroImage: ../images/5143f1bb8f.jpeg
@@ -23,7 +23,7 @@ Online Event
 
 Registration is closed
 
-[See other events](https://templeofeiriu.github.io/)
+[See other events](https://www.templeofeiriu.ie/)
 
 Time & Location
 ---------------
@@ -52,6 +52,6 @@ Meeting ID: 867 9204 5772
 Passcode: 475106
 
 
-*   [![Image 8: Facebook](https://templeofeiriu.github.io/event-info/light-wheels-meditation-with-jay)](https://www.facebook.com/templeofeiriu)
+*   [![Image 8: Facebook](https://www.templeofeiriu.ie/event-info/light-wheels-meditation-with-jay)](https://www.facebook.com/templeofeiriu)
 
 

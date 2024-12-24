@@ -1,6 +1,6 @@
 ---
 title: Celtic Weddings Teachings and Ceremonies | Temple of Éiriú - Celtic Traditions
-url: https://templeofeiriu.github.io/
+url: https://www.templeofeiriu.ie/
 description: Ceremony is a time of celebration, connecting to the ancient wisdom and magic of the land, and remembering our deep connection with the natural world.
 heroImage: ../images/Templelogo.png
 pubDate: '2024-06-19'
@@ -16,7 +16,7 @@ The Temple of Éiriú offers ceremonies in restoration of the Sacred relationshi
 
 ​
 
-[To see our full range of life ceremonies, workshops and events please click here](https://templeofeiriu.github.io/life-ceremonies)
+[To see our full range of life ceremonies, workshops and events please click here](https://www.templeofeiriu.ie/life-ceremonies)
 
 ### The Perfect Wedding
 
@@ -28,7 +28,7 @@ As our main focus is engaging with the spirit of Ireland and the natural world, 
 
 ​
 
-[Please click here to find out more](https://templeofeiriu.github.io/weddings-1)
+[Please click here to find out more](https://www.templeofeiriu.ie/weddings-1)
 
 ### Fire Festivals
 
@@ -36,10 +36,10 @@ Fire is what holds people together in community and heart. Fire is a place to co
 
 ​
 
-[For more information on our Fire Festival Gatherings please click here](https://templeofeiriu.github.io/fire-festivals)
+[For more information on our Fire Festival Gatherings please click here](https://www.templeofeiriu.ie/fire-festivals)
 
 ### Aisling Eala - Swan Dancetitle: Celtic Weddings Teachings and Ceremonies | Temple of Éiriú - Celtic Traditions
-url: https://templeofeiriu.github.io/
+url: https://www.templeofeiriu.ie/
 ---
 #Ceremonies
 ----------
@@ -50,7 +50,7 @@ The Temple of Éiriú offers ceremonies in restoration of the Sacred relationshi
 
 ​
 
-[To see our full range of life ceremonies, workshops and events please click here](https://templeofeiriu.github.io/life-ceremonies)
+[To see our full range of life ceremonies, workshops and events please click here](https://www.templeofeiriu.ie/life-ceremonies)
 
 ### The Perfect Wedding
 
@@ -62,7 +62,7 @@ As our main focus is engaging with the spirit of Ireland and the natural world, 
 
 ​
 
-[Please click here to find out more](https://templeofeiriu.github.io/weddings-1)
+[Please click here to find out more](https://www.templeofeiriu.ie/weddings-1)
 
 ### Fire Festivals
 
@@ -70,7 +70,7 @@ Fire is what holds people together in community and heart. Fire is a place to co
 
 ​
 
-[For more information on our Fire Festival Gatherings please click here](https://templeofeiriu.github.io/fire-festivals)
+[For more information on our Fire Festival Gatherings please click here](https://www.templeofeiriu.ie/fire-festivals)
 
 ### Aisling Eala - Swan Dance
 
@@ -78,7 +78,7 @@ The vision of Aisling Éala is to awaken and gather the wisdom that has been lef
 
 ​
 
-[Please click here for more information on the Aisling Eala](https://templeofeiriu.github.io/aisling-eala)
+[Please click here for more information on the Aisling Eala](https://www.templeofeiriu.ie/aisling-eala)
 
 ### Baby Naming Ceremonies
 
@@ -118,7 +118,7 @@ How to introduce yourself to a sacred site
 
 ​
 
-[To learn more about this and other workshops please click here](https://templeofeiriu.github.io/workshops)
+[To learn more about this and other workshops please click here](https://www.templeofeiriu.ie/workshops)
 
 ### Vision Quests
 
@@ -130,7 +130,7 @@ The Temple of Éiriú holds events and ceremonies throughout the year that hold 
 
 ​
 
-[You can find more information on all of our workshops here.](https://templeofeiriu.github.io/workshops)
+[You can find more information on all of our workshops here.](https://www.templeofeiriu.ie/workshops)
 
 ​
 

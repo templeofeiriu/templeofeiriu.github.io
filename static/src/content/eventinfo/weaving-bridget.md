@@ -1,6 +1,6 @@
 ---
 title: Weaving Bridget | Temple of Éiriú - Ce
-url: https://templeofeiriu.github.io/event-info/weaving-bridget
+url: https://www.templeofeiriu.ie/event-info/weaving-bridget
 startDate: '2023-02-01'
 hosts: ["EarthDragún", "OakHeartSinger"]
 location: "An Nead, West Wicklow"

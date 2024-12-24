@@ -1,6 +1,6 @@
 ---
 title: Aisling Eala Swan Dance | Temple of Éiriú - Ce
-url: https://templeofeiriu.github.io/event-info/aisling-eala-swan-dance-1
+url: https://www.templeofeiriu.ie/event-info/aisling-eala-swan-dance-1
 startDate: '2022-09-24'
 endDate: '2022-09-24'
 heroImage: ../images/7b23e74ffd.jpeg
@@ -10,7 +10,7 @@ description: "A one-day shamanic ceremonial dance to reconnect with the enlighte
 alt: "Aisling Eala Swan Dance"
 ---
 
-[![Image 5: Untitled](../images/86eaa6fef9.jpeg)](https://templeofeiriu.github.io/)
+[![Image 5: Untitled](../images/86eaa6fef9.jpeg)](https://www.templeofeiriu.ie/)
 
 
 ![Image 6: Aisling Eala Swan Dance](../images/7b23e74ffd.jpeg)
@@ -27,7 +27,7 @@ This is a one-day shamanic ceremonial dance to reconnect with the enlightened en
 
 Tickets are not on sale
 
-[See other events](https://templeofeiriu.github.io/)
+[See other events](https://www.templeofeiriu.ie/)
 
 Time & Location
 ---------------
@@ -41,6 +41,6 @@ About the event
 
 For more information and to book your place please contact aislingeala@gmail.com
 
-*   [![Image 8: Facebook](https://templeofeiriu.github.io/event-info/aisling-eala-swan-dance-1)](https://www.facebook.com/templeofeiriu)
+*   [![Image 8: Facebook](https://www.templeofeiriu.ie/event-info/aisling-eala-swan-dance-1)](https://www.facebook.com/templeofeiriu)
 
 

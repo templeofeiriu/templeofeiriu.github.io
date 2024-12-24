@@ -1,6 +1,6 @@
 ---
 title: Fire Festivals | Temple of Éiriú - Celtic Traditions
-url: https://templeofeiriu.github.io/fire-festivals
+url: https://www.templeofeiriu.ie/fire-festivals
 pubDate: 2021-10-06
 updateDate: 2021-10-06
 heroImage: ../images/8adab9d1d6.jpeg
@@ -45,4 +45,4 @@ The Fire Festivals are:
 
 ​
 
-[Please contact us for information on Fire Ceremonies in your area](https://templeofeiriu.github.io/) @ [templeeiriu@gmail.com](mailto://templeeiriu@gmail.com)
+[Please contact us for information on Fire Ceremonies in your area](https://www.templeofeiriu.ie/) @ [templeeiriu@gmail.com](mailto://templeeiriu@gmail.com)

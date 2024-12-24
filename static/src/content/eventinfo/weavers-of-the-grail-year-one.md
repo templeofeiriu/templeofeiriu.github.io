@@ -1,6 +1,6 @@
 ---
 title: Weavers of the Grail (Year One) | Temple of Éiriú - Ce
-url: https://templeofeiriu.github.io/event-info/weavers-of-the-grail-year-one
+url: https://www.templeofeiriu.ie/event-info/weavers-of-the-grail-year-one
 startDate: '2022-09-16T09:30:00'
 endDate: '2023-05-19T18:30:00'
 heroImage: ../images/177a1914b2.jpeg
@@ -24,7 +24,7 @@ This training may suit you if you have a love for Ireland & want to learn from h
 
 Tickets are not on sale
 
-[See other events](https://templeofeiriu.github.io/)
+[See other events](https://www.templeofeiriu.ie/)
 
 Time & Location
 ---------------
@@ -46,6 +46,6 @@ On this course you will deepen in service to the divine feminine and learn:
 *   how to introduce yourself to a sacred site
 
 
-*   [![Image 8: Facebook](https://templeofeiriu.github.io/event-info/weavers-of-the-grail-year-one)](https://www.facebook.com/templeofeiriu)
+*   [![Image 8: Facebook](https://www.templeofeiriu.ie/event-info/weavers-of-the-grail-year-one)](https://www.facebook.com/templeofeiriu)
 
 

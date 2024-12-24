@@ -1,6 +1,6 @@
 ---
 title: Aisling Eala Swan Dance  | Temple of Éiriú - Ce
-url: https://templeofeiriu.github.io/event-info/aisling-eala-swan-dance-3
+url: https://www.templeofeiriu.ie/event-info/aisling-eala-swan-dance-3
 startDate: '2023-09-23'
 endDate: '2023-09-23'
 heroImage: ../images/7b23e74ffd.jpeg

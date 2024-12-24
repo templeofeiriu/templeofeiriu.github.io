@@ -1,6 +1,6 @@
 ---
 title: Everyday Goddess | Temple of Éiriú - Ce
-url: https://templeofeiriu.github.io/event-info/everyday-goddess
+url: https://www.templeofeiriu.ie/event-info/everyday-goddess
 startDate: '2022-04-23T09:00:00'
 endDate: '2022-04-24T17:00:00'
 heroImage: ../images/57babe36a5.jpeg
@@ -24,7 +24,7 @@ This is an invitation to spend a weekend in the company of the Goddess Medbh of 
 
 Tickets are not on sale
 
-[See other events](https://templeofeiriu.github.io/)
+[See other events](https://www.templeofeiriu.ie/)
 
 Time & Location
 ---------------
@@ -46,6 +46,6 @@ Everyday Goddess, Cabragh Lodge, Co. Sligo
 Please Note: This is an in person event with limited availability
 
 
-*   [![Image 8: Facebook](https://templeofeiriu.github.io/event-info/everyday-goddess)](https://www.facebook.com/templeofeiriu)
+*   [![Image 8: Facebook](https://www.templeofeiriu.ie/event-info/everyday-goddess)](https://www.facebook.com/templeofeiriu)
 
 

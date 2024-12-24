@@ -1,6 +1,6 @@
 ---
 title: Weddings | Temple of Éiriú - Celtic Traditions
-url: https://templeofeiriu.github.io/weddings-1
+url: https://www.templeofeiriu.ie/weddings-1
 pubDate: '2024-06-19'
 updateDate: '2024-09-19'
 heroImage: ../images/HandFasting.jpeg
@@ -17,7 +17,7 @@ In the Temple of Éiriú, we guarantee you a deep and heartfelt connection to yo
 
 In preparation for your big day, we begin to gather the energy for your ceremony as soon as you agree to having us as solemniser.  We gather the strength of the elements and natural worlds to bring a potency to your marriage. In other words, we don't just rock up on the day; we take the time to get to know you, what is important to you in your life and we blend this with the spirit of this beautiful country of Ireland. Even couples who had been recommended to us via a friend and did not necessarily have an immediate connection with the land of Ireland, have all been blown away with the depth of emotion and heart within their marriage ceremony.
 
-Please see our [Solmenisers](https://templeofeiriu.github.io/weddings-1) and [testimonials below](https://templeofeiriu.github.io/weddings-1)
+Please see our [Solmenisers](https://www.templeofeiriu.ie/weddings-1) and [testimonials below](https://www.templeofeiriu.ie/weddings-1)
 
 Don't hesitate to contact us for any further information or questions you may have and yes very importantly we can legally register your marriage if that is what you want.
 

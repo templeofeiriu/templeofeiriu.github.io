@@ -1,6 +1,6 @@
 ---
 title: Weaving Equinox and Samhain | Temple of Éiriú - Ce
-url: https://templeofeiriu.github.io/event-info/weaving-equinox-and-samhain
+url: https://www.templeofeiriu.ie/event-info/weaving-equinox-and-samhain
 startDate: '2022-10-02T10:00:00'
 endDate: '2022-10-02T18:00:00'
 heroImage: ../images/76c9e925c0.jpeg

@@ -4,7 +4,7 @@ updateDate: '2024-06-19'
 description: Aisling Eala Swan Dance
 heroImage: ../images/Swanfamily.png
 title: Aisling Eala | Temple of Éiriú - Celtic Traditions
-url: https://templeofeiriu.github.io/aisling-eala
+url: https://www.templeofeiriu.ie/aisling-eala
 
 
 ---

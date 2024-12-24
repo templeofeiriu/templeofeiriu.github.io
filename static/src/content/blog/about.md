@@ -1,6 +1,6 @@
 ---
 title: About | Temple of Éiriú - Celtic Traditions
-url: https://templeofeiriu.github.io/about
+url: https://www.templeofeiriu.ie/about
 pubDate: '2024-06-19'
 updateDate: '2024-06-19'
 heroImage: ../images/Templelogo.png
@@ -62,7 +62,7 @@ The Temple respects the presence of all other religious/spiritual traditions on 
 
 *   ![Image 76: Weaving Equinox and Samhain](../images/drum.webp) 
 
-[Weaving 2025](https://templeofeiriu.github.io/event-info/weaving-imbolc-2025)
+[Weaving 2025](https://www.templeofeiriu.ie/event-info/weaving-imbolc-2025)
 
 Ceremonies
 ----------
@@ -73,7 +73,7 @@ The Temple of Éiriú offers ceremonies in restoration of the Sacred relationshi
 
 ​
 
-[To see our full range of life ceremonies, workshops and events please click here](https://templeofeiriu.github.io/life-ceremonies)
+[To see our full range of life ceremonies, workshops and events please click here](https://www.templeofeiriu.ie/life-ceremonies)
 
 ![ WhatsApp Image 2021-04-11 at 9.59.26 AM(1).jpeg](../images/1cb0cab20c.jpeg)
 
@@ -87,9 +87,9 @@ As our main focus is engaging with the spirit of Ireland and the natural world, 
 
 ​
 
-[Please click here to find out more](https://templeofeiriu.github.io/weddings-1)
+[Please click here to find out more](https://www.templeofeiriu.ie/weddings-1)
 
-[Get in Touch](https://templeofeiriu.github.io/weddings-1)
+[Get in Touch](https://www.templeofeiriu.ie/weddings-1)
 
 ![ fire.jpg](../images/90d2617f68.jpeg)
 
@@ -99,9 +99,9 @@ Fire is what holds people together in community and heart. Fire is a place to co
 
 ​
 
-[For more information on our Fire Festival Gatherings please click here](https://templeofeiriu.github.io/fire-festivals)
+[For more information on our Fire Festival Gatherings please click here](https://www.templeofeiriu.ie/fire-festivals)
 
-[Get in Touch](https://templeofeiriu.github.io/)
+[Get in Touch](https://www.templeofeiriu.ie/)
 
 ![ Swan Dance Pic.jpg](../images/8080714594.jpeg)
 
@@ -111,9 +111,9 @@ The vision of Aisling Éala is to awaken and gather the wisdom that has been lef
 
 ​
 
-[Please click here for more information on the Aisling Eala](https://templeofeiriu.github.io/aisling-eala)
+[Please click here for more information on the Aisling Eala](https://www.templeofeiriu.ie/aisling-eala)
 
-[Get in Touch](https://templeofeiriu.github.io/)
+[Get in Touch](https://www.templeofeiriu.ie/)
 
 ![ baby naming ceremony.jpg](../images/a5ee67dd3e.jpeg)
 
@@ -121,7 +121,7 @@ The vision of Aisling Éala is to awaken and gather the wisdom that has been lef
 
 Here the child is welcomed into life by the family and community. The child is blessed into the elements of fire, earth, water, air and ether to help to anchor them in this life and to bring protection and blessing. It is encouraged that the community bring their best intentions for the child, that will help them grow in strength and love.
 
-[Get in Touch](https://templeofeiriu.github.io/)
+[Get in Touch](https://www.templeofeiriu.ie/)
 
 ![ funeral.jpg](../images/deac0f1ded.jpeg)
 
@@ -129,7 +129,7 @@ Here the child is welcomed into life by the family and community. The child is b
 
 We offer beautiful and personal ceremonies to honour loved ones who have passed. We hold prayers and blessing for their passing from this life in peace, and celebrate and remember the jewels of their life. Ceremonies can be tailored to the wishes of people and their families.
 
-[Get in Touch](https://templeofeiriu.github.io/)
+[Get in Touch](https://www.templeofeiriu.ie/)
 
 ![ house blessing.jpg](../images/Houseblessing.jpg)
 
@@ -137,7 +137,7 @@ We offer beautiful and personal ceremonies to honour loved ones who have passed.
 
 This service is offered so that your home can truly become a place of sanctuary, where you can rest and rejuvenate. We can clean our houses physically, but there is also the need to cleanse them of old emotions, thought patterns and stagnant energies. After the cleansing, we bring in a blessing for the hearth and home that is in harmony with the residents.
 
-[Get in Touch](https://templeofeiriu.github.io/)
+[Get in Touch](https://www.templeofeiriu.ie/)
 
 ![ sweat lodge.jpg](../images/07f339aab3.jpeg)
 
@@ -149,7 +149,7 @@ We also advise communities interested in building their own Sweat Lodge.
 
 For more information on upcoming Sweat Lodges please get in touch
 
-[Get in Touch](https://templeofeiriu.github.io/)
+[Get in Touch](https://www.templeofeiriu.ie/)
 
 ![ every day Goddess.jpg](../images/5dcc404e05.jpeg)
 
@@ -159,7 +159,7 @@ The focus of this course is for creative communication between the sexual and th
 
 ​
 
-[For more information on this workshop and others please click here](https://templeofeiriu.github.io/workshops)
+[For more information on this workshop and others please click here](https://www.templeofeiriu.ie/workshops)
 
 Get in Touch
 
@@ -183,7 +183,7 @@ How to introduce yourself to a sacred site
 
 ​
 
-[To learn more about this and other workshops please click here](https://templeofeiriu.github.io/workshops)
+[To learn more about this and other workshops please click here](https://www.templeofeiriu.ie/workshops)
 
 Get in Touch
 
@@ -203,7 +203,7 @@ The Temple of Éiriú holds events and ceremonies throughout the year that hold 
 
 ​
 
-[You can find more information on all of our workshops here.](https://templeofeiriu.github.io/workshops)
+[You can find more information on all of our workshops here.](https://www.templeofeiriu.ie/workshops)
 
 ​
 If you would like further information on these or to be kept informed of upcoming events please contact us @

@@ -1,6 +1,6 @@
 ---
 title: EveryDay Goddess Wicklow | Temple of Éiriú - Ce
-url: https://templeofeiriu.github.io/event-info/everyday-goddess-wicklow
+url: https://www.templeofeiriu.ie/event-info/everyday-goddess-wicklow
 startDate: '2022-09-23T10:00:00'
 endDate: '2022-09-25T18:00:00'
 location: Wicklow

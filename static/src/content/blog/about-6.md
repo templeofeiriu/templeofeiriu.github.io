@@ -4,7 +4,7 @@ updateDate: 2023-09-23
 description: Protecting our Sacred Lands | Temple of Éiriú - Ce
 heroImage: ../images/67580397fb.png
 title: Protecting our Sacred Lands | Temple of Éiriú - Ce
-url: https://templeofeiriu.github.io/about-6
+url: https://www.templeofeiriu.ie/about-6
 ---
 
 In the past few years, we as a community have come together to protect our sacred and ancient lands from destruction, like when a proposal to put a motorway through the Boyne Valley, or when ABO wanted to put a windfarm in the hills around Balltinglass and Kiltegan, or when Dawn Meats proposed to construct a wastewater treatment plant on the shores of the Boyne river.

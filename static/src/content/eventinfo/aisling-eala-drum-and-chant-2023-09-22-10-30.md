@@ -1,6 +1,6 @@
 ---
 title: Aisling Eala Drum and Chant | Temple of Éiriú - Ce
-url: https://templeofeiriu.github.io/event-info/aisling-eala-drum-and-chant-2023-09-22-10-30
+url: https://www.templeofeiriu.ie/event-info/aisling-eala-drum-and-chant-2023-09-22-10-30
 startDate: '2023-09-22'
 startTime: '10:30'
 endTime: '12:00'
@@ -24,7 +24,7 @@ Come join the Drum Team from the comfort of your own home, for an opportunity to
 
 Registration is closed
 
-[See other events](https://templeofeiriu.github.io/)
+[See other events](https://www.templeofeiriu.ie/)
 
 Time & Location
 ---------------

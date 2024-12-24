@@ -1,6 +1,6 @@
 ---
 title: Information and Guidelines | Temple of Éiriú - Ce
-url: <https://templeofeiriu.github.io/information-and-guidelines>
+url: <https://www.templeofeiriu.ie/information-and-guidelines>
 pubDate: '2024-06-19'
 updateDate: '2024-06-19'
 heroImage: ../images/86eaa6fef9.jpeg
@@ -10,7 +10,7 @@ description: Information and Guidelines | Temple of Éiriú - Ce
 
 
 
-[![Image 9: Untitled](../images/86eaa6fef9.jpeg)](https://templeofeiriu.github.io/)
+[![Image 9: Untitled](../images/86eaa6fef9.jpeg)](https://www.templeofeiriu.ie/)
 
 
 ![Image 10: Autumn 2024 Information and Guidelines.pdf.png](../images/1c32fa8404.png)
@@ -29,5 +29,5 @@ description: Information and Guidelines | Temple of Éiriú - Ce
 
 [Register](https://docs.google.com/forms/d/e/1FAIpQLSf8pCYNLxOjmqytmGsbtyFp5mYBkeAn4i0FeFxaMX8yI0hY6g/viewform?usp=sf_link)
 
-*   [![Image 16: Facebook](https://templeofeiriu.github.io/information-and-guidelines)](https://www.facebook.com/templeofeiriu)
+*   [![Image 16: Facebook](https://www.templeofeiriu.ie/information-and-guidelines)](https://www.facebook.com/templeofeiriu)
 

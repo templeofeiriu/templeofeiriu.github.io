@@ -1,6 +1,6 @@
 ---
 title: Bealtaine Drum, Chant and Sweat | Temple of Éiriú - Ce
-url: https://templeofeiriu.github.io/event-info/bealtaine-drum-chant-and-sweat
+url: https://www.templeofeiriu.ie/event-info/bealtaine-drum-chant-and-sweat
 startDate: '2023-05-06T10:00:00'
 endDate: '2023-05-06T18:00:00'
 heroImage: ../images/drum.webp

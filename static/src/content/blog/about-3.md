@@ -3,7 +3,7 @@ pubDate: 2022-02-01
 updateDate: 2022-02-01
 heroImage: ../images/821a177796.jpeg
 title: Awakening the Songlines ,Helen Cantrell | Temple of Éiriú - Ce
-url: https://templeofeiriu.github.io/about-3
+url: https://www.templeofeiriu.ie/about-3
 description: Awakening the Songlines ,Helen Cantrell | Temple of Éiriú - Ce
 ---
 # Helen Cantrell

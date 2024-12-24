@@ -3,7 +3,7 @@ pubDate: 2024-05-01
 upDate: 2024-05-01
 description: Autumn Equinox Newsletter
 title: Most Recent Newsletter | Temple of Éiriú - Ce
-url: https://templeofeiriu.github.io/services-7
+url: https://www.templeofeiriu.ie/services-7
 heroImage: "../images/628929da9e.png"
 ---
 ####                         Autumn Equinox Newsletter

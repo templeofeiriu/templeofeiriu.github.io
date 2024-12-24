@@ -1,6 +1,6 @@
 ---
 title: Fire Festivals | Temple of Éiriú - Ce
-url: https://templeofeiriu.github.io/event-info/fire-festivals
+url: https://www.templeofeiriu.ie/event-info/fire-festivals
 startDate: '2021-06-21T21:00:00'
 endDate: '2021-06-21T23:00:00'
 heroImage: ../images/8adab9d1d6.jpeg
@@ -20,7 +20,7 @@ Join us for one of our Fire Ceremonies or light your own fire and connect with u
 
 Registration is Closed
 
-[See other events](https://templeofeiriu.github.io/)
+[See other events](https://www.templeofeiriu.ie/)
 
 Time & Location
 ---------------

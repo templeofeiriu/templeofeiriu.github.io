@@ -1,6 +1,6 @@
 ---
 title: Weaving Bridget | Temple of Éiriú - Ce
-url: https://templeofeiriu.github.io/event-info/weaving-imbolc-2025
+url: https://www.templeofeiriu.ie/event-info/weaving-imbolc-2025
 startDate: "2025-02-01"
 endDate: "2025-02-01"
 hosts: ["EarthDragún", "OakHeartSinger"]

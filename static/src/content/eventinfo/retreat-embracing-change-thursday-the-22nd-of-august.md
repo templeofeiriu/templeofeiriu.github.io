@@ -1,6 +1,6 @@
 ---
 title: Retreat - Embracing Change - Thursday the 22nd of August | Temple of Éiriú - Ce
-url: https://templeofeiriu.github.io/event-info/retreat-embracing-change-thursday-the-22nd-of-august
+url: https://www.templeofeiriu.ie/event-info/retreat-embracing-change-thursday-the-22nd-of-august
 startDate: '2019-08-22T10:00:00'
 endDate: '2019-08-22T18:00:00'
 heroImage: "../images/Templelogo.png"

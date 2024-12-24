@@ -1,6 +1,6 @@
 ---
 title: Aisling Eala Spring 2022 | Temple of Éiriú - Ce
-url: https://templeofeiriu.github.io/event-info/aisling-eala-spring-2022
+url: https://www.templeofeiriu.ie/event-info/aisling-eala-spring-2022
 startDate: '2022-03-20'
 endDate: '2022-03-20'
 heroImage: ../images/Swanlove.png

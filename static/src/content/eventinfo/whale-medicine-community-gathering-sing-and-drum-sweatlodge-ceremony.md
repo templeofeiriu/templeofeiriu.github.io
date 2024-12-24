@@ -1,6 +1,6 @@
 ---
 title: Whale Medicine Community Gathering, Sing and Drum, Sweatlodge Ceremony | Temple of Éiriú - Ce
-url: https://templeofeiriu.github.io/event-info/whale-medicine-community-gathering-sing-and-drum-sweatlodge-ceremony
+url: https://www.templeofeiriu.ie/event-info/whale-medicine-community-gathering-sing-and-drum-sweatlodge-ceremony
 startDate: '2024-09-08Z10:00:00'
 endDate: '2024-09-08Z17:30:00'
 heroImage: ../images/Whale.jumping.png
@@ -23,7 +23,7 @@ Join Helen Cantrell(RainbowStarlight) and Hilary Healy(Dragún) in gathering the
 
 Registration is closed
 
-[See other events](https://templeofeiriu.github.io/)
+[See other events](https://www.templeofeiriu.ie/)
 
 Time & Location
 ---------------
@@ -35,11 +35,11 @@ An Nead, Talbotstown Lower, Co. Wicklow, W91 DX25, Ireland
 Guests
 ------
 
-![Image 11](https://templeofeiriu.github.io/event-info/whale-medicine-community-gathering-sing-and-drum-sweatlodge-ceremony)
+![Image 11](https://www.templeofeiriu.ie/event-info/whale-medicine-community-gathering-sing-and-drum-sweatlodge-ceremony)
 
-![Image 12](https://templeofeiriu.github.io/event-info/whale-medicine-community-gathering-sing-and-drum-sweatlodge-ceremony)
+![Image 12](https://www.templeofeiriu.ie/event-info/whale-medicine-community-gathering-sing-and-drum-sweatlodge-ceremony)
 
-![Image 13](https://templeofeiriu.github.io/event-info/whale-medicine-community-gathering-sing-and-drum-sweatlodge-ceremony)
+![Image 13](https://www.templeofeiriu.ie/event-info/whale-medicine-community-gathering-sing-and-drum-sweatlodge-ceremony)
 
 \+ 4 other guests
 
@@ -59,6 +59,6 @@ In the afternoon we will enter the Sweat lodge to anchor and embody the blessing
 Energy exchange 75euro.
 
 
-*   [![Image 14: Facebook](https://templeofeiriu.github.io/event-info/whale-medicine-community-gathering-sing-and-drum-sweatlodge-ceremony)](https://www.facebook.com/templeofeiriu)
+*   [![Image 14: Facebook](https://www.templeofeiriu.ie/event-info/whale-medicine-community-gathering-sing-and-drum-sweatlodge-ceremony)](https://www.facebook.com/templeofeiriu)
 
 

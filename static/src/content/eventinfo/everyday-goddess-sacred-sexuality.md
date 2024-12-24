@@ -1,6 +1,6 @@
 ---
 title: Everyday Goddess Sacred Sexuality | Temple of Éiriú - Ce
-url: https://templeofeiriu.github.io/event-info/everyday-goddess-sacred-sexuality
+url: https://www.templeofeiriu.ie/event-info/everyday-goddess-sacred-sexuality
 startDate: '2022-09-03T10:00:00'
 endDate: '2022-09-03T17:00:00'
 heroImage: ../images/ab584e945b.jpeg
@@ -21,7 +21,7 @@ Sat, 03 Sept
 
 Tickets are not on sale
 
-[See other events](https://templeofeiriu.github.io/)
+[See other events](https://www.templeofeiriu.ie/)
 
 Time & Location
 ---------------
@@ -49,6 +49,6 @@ Running monthly on Saturdays from 10:00 AM to 5:00 PM.
 
 
 
-*   [![Image 8: Facebook](https://templeofeiriu.github.io/event-info/everyday-goddess-sacred-sexuality)](https://www.facebook.com/templeofeiriu)
+*   [![Image 8: Facebook](https://www.templeofeiriu.ie/event-info/everyday-goddess-sacred-sexuality)](https://www.facebook.com/templeofeiriu)
 
 

@@ -1,6 +1,6 @@
 ---
 title: Everyday Goddess Sligo | Temple of Éiriú - Ce
-url: https://templeofeiriu.github.io/event-info/everyday-goddess-sligo
+url: https://www.templeofeiriu.ie/event-info/everyday-goddess-sligo
 startDate: '2022-03-20T10:00:00'
 endDate: '2022-03-20T18:00:00'
 location: Cabragh Lodge, Co. Sligo

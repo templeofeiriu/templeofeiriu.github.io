@@ -1,5 +1,5 @@
 ---
-url: https://templeofeiriu.github.io/awakening-the-songlines-of-the-land
+url: https://www.templeofeiriu.ie/awakening-the-songlines-of-the-land
 pubDate: 2023-12-15
 updateDate: 2023-12-15
 heroImage: ../images/2a57fde21b.jpeg

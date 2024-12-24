@@ -1,6 +1,6 @@
 ---
 title: Workshops | Temple of Éiriú - Celtic Traditions
-url: https://templeofeiriu.github.io/workshops
+url: https://www.templeofeiriu.ie/workshops
 pubDate: '2024-06-19'
 updateDate: '2024-06-19'
 heroImage: ''
@@ -62,7 +62,7 @@ If any community is interested in building their own Sweat Lodge, please get in 
 
 ​
 
-For information [on future sweat lodges when they become available](https://templeofeiriu.github.io/workshops) [please click here](https://templeofeiriu.github.io/workshops), or become a member and we will keep you updated
+For information [on future sweat lodges when they become available](https://www.templeofeiriu.ie/workshops) [please click here](https://www.templeofeiriu.ie/workshops), or become a member and we will keep you updated
 
 ![sweat lodge](../images/Sweatlodge.jpg)
 
@@ -133,7 +133,7 @@ These teachings are for those who hold the earth as sacred and understand the po
 
 ​
 
-For information on upcoming Fire Teachings please [contact us](https://templeofeiriu.github.io/)
+For information on upcoming Fire Teachings please [contact us](https://www.templeofeiriu.ie/)
 
 ![Image 29: fire 2.jpg](../images/99e85adf46.jpeg) -->
 

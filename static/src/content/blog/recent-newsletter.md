@@ -1,6 +1,6 @@
 ---
 title: Recent Newsletter | Temple of Éiriú - Ce
-url: https://templeofeiriu.github.io/recent-newsletter
+url: https://www.templeofeiriu.ie/recent-newsletter
 pubDate: '2024-06-19'
 updateDate: '2024-06-19'
 heroImage: ../images/86eaa6fef9.jpeg

@@ -8,9 +8,9 @@ export default defineConfig({
 	// site: 'https://www.templeofeiriu.com',
 	// image: {
 	// remotePatterns: [{ protocol: "https" }],
-	// domains: ['duncanhealy.github.io'],
+	// domains: [''],
   // },
-	site: 'https://templeofeiriu.github.io',
+	site: 'https://www.templeofeiriu.ie',
 	// base: '/templeofeiriu/',
 	integrations: [mdx(), sitemap()],
 	assets: {

@@ -1,6 +1,6 @@
 ---
 title: Retreat - Connecting to the Heart - Wednesday the 18th of September | Temple of Éiriú - Ce
-url: https://templeofeiriu.github.io/event-info/retreat-connecting-to-the-heart-wednesday-the-18th-of-september
+url: https://www.templeofeiriu.ie/event-info/retreat-connecting-to-the-heart-wednesday-the-18th-of-september
 startDate: '2024-09-18T09:30:00'
 endDate: '2024-09-18T17:30:00'
 heroImage: ../images/6aa6ea91b2.jpeg

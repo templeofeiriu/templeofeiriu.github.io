@@ -1,6 +1,6 @@
 ---
 title: Aisling Eala Swan Dance Autumn 2021 | Temple of Éiriú - Ce
-url: https://templeofeiriu.github.io/event-info/aisling-eala-swan-dance-autumn-2021
+url: https://www.templeofeiriu.ie/event-info/aisling-eala-swan-dance-autumn-2021
 startDate: '2021-09-19T07:30:00'
 endDate: '2021-09-19T18:00:00'
 heroImage: ../images/7b23e74ffd.jpeg

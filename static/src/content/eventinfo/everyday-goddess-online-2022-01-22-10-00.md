@@ -1,6 +1,6 @@
 ---
 title: Everyday Goddess Online | Temple of Éiriú - Ce
-url: https://templeofeiriu.github.io/event-info/everyday-goddess-online-2022-01-22-10-00
+url: https://www.templeofeiriu.ie/event-info/everyday-goddess-online-2022-01-22-10-00
 startDate: '2022-01-22T10:00:00'
 endDate: '2022-01-22T18:00:00'
 heroImage: ../images/e6f2bb5b35.jpeg
@@ -23,7 +23,7 @@ An online training and mentorship supporting the rising feminine in returning to
 
 Tickets are not on sale
 
-[See other events](https://templeofeiriu.github.io/)
+[See other events](https://www.templeofeiriu.ie/)
 
 Time & Location
 ---------------
@@ -33,6 +33,6 @@ Time & Location
 Online event
 
 
-*   [![Image 10: Facebook](https://templeofeiriu.github.io/event-info/everyday-goddess-online-2022-01-22-10-00)](https://www.facebook.com/templeofeiriu)
+*   [![Image 10: Facebook](https://www.templeofeiriu.ie/event-info/everyday-goddess-online-2022-01-22-10-00)](https://www.facebook.com/templeofeiriu)
 
 

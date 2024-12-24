@@ -1,6 +1,6 @@
 ---
 title: Winter Weaving, Drum, Chant and Sweatlodge | Temple of Éiriú - Ce
-url: https://templeofeiriu.github.io/event-info/winter-weaving-drum-chant-and-sweatlodge
+url: https://www.templeofeiriu.ie/event-info/winter-weaving-drum-chant-and-sweatlodge
 startDate: "2023-11-25T10:00:00"
 endDate: "2023-11-25T17:30:00"
 heroImage: ../images/76c9e925c0.jpeg

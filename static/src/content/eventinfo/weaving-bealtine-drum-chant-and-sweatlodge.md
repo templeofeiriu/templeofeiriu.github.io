@@ -1,6 +1,6 @@
 ---
 title: Weaving Bealtine Drum, Chant and Sweatlodge | Temple of Éiriú - Ce
-url: https://templeofeiriu.github.io/event-info/weaving-bealtine-drum-chant-and-sweatlodge
+url: https://www.templeofeiriu.ie/event-info/weaving-bealtine-drum-chant-and-sweatlodge
 startDate: '2023-05-06T10:00:00'
 endDate: '2023-05-06T18:00:00'
 heroImage: ../images/drum.webp

@@ -1,6 +1,6 @@
 ---
 title: Spring Equinox Aisling Eala 2024 | Temple of Éiriú - Ce
-url: https://templeofeiriu.github.io/event-info/spring-equinox-aisling-eala-2024
+url: https://www.templeofeiriu.ie/event-info/spring-equinox-aisling-eala-2024
 startDate: '2024-03-17'
 endDate: '2024-03-18'
 heroImage: ../images/Swanlove.png

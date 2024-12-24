@@ -1,6 +1,6 @@
 ---
 title: Aisling Eala Autumn Equinox | Temple of Éiriú - Ce
-url: https://templeofeiriu.github.io/event-info/aisling-eala-autumn-equinox
+url: https://www.templeofeiriu.ie/event-info/aisling-eala-autumn-equinox
 startDate: '2024-09-21T06:00:00'
 endDate: '2024-09-22T18:00:00'
 hosts: ["Trish Cameron", "Hilary Healy"]

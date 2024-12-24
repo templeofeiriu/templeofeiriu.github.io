@@ -1,6 +1,6 @@
 ---
 title: Weaving Summer Glory | Temple of Éiriú - Ce
-url: https://templeofeiriu.github.io/event-info/weaving-summer-glory
+url: https://www.templeofeiriu.ie/event-info/weaving-summer-glory
 startDate: '2022-06-25T10:00:00'
 endDate: '2022-06-25T18:00:00'
 heroImage: ../images/76c9e925c0.jpeg

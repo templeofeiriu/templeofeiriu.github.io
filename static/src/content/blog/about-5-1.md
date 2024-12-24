@@ -2,7 +2,7 @@
 pubDate: 2022-03-21
 heroImage: ../images/337b795db7.jpeg
 title: Personal Stories | Temple of Éiriú - Ce
-url: https://templeofeiriu.github.io/about-5-1
+url: https://www.templeofeiriu.ie/about-5-1
 description: Personal Stories | Temple of Éiriú - Ce
 updateDate: '2022-03-21'
 ---

@@ -6,7 +6,7 @@ heroImage: ../images/e6f2bb5b35.jpeg
 hosts: []
 description: An online training and mentorship supporting the rising feminine in returning to the sacred power of her sexuality.
 location: Online event
-url: https://templeofeiriu.github.io/event-info/everyday-goddess-online-2022-04-30-10-00
+url: https://www.templeofeiriu.ie/event-info/everyday-goddess-online-2022-04-30-10-00
 ---
 ![Image 8: Everyday Goddess Online](../images/e6f2bb5b35.jpeg)
 
@@ -21,7 +21,7 @@ An online training and mentorship supporting the rising feminine in returning to
 
 Tickets are not on sale
 
-[See other events](https://templeofeiriu.github.io/)
+[See other events](https://www.templeofeiriu.ie/)
 
 Time & Location
 ---------------
@@ -31,6 +31,6 @@ Time & Location
 Online event
 
 
-*   [![Image 10: Facebook](https://templeofeiriu.github.io/event-info/everyday-goddess-online-2022-04-30-10-00)](https://www.facebook.com/templeofeiriu)
+*   [![Image 10: Facebook](https://www.templeofeiriu.ie/event-info/everyday-goddess-online-2022-04-30-10-00)](https://www.facebook.com/templeofeiriu)
 
 
