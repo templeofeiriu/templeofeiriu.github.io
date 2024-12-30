@@ -46,8 +46,9 @@ const { title, description, image = '/templelogo.png' } = Astro.props;
 <meta property="twitter:description" content={description} />
 <meta property="twitter:image" content={new URL(image, Astro.url)} />
 <script
-  data-allow-params="slug"
+	data-collect-dnt="true"
+	data-allow-params="slug"
 	data-non-unique-hostnames="paypal.com,docs.google.com,eepurl.com"
-  src="https://scripts.simpleanalyticscdn.com/latest.js"
+	src="https://scripts.simpleanalyticscdn.com/latest.js"
 ></script>
 <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>
