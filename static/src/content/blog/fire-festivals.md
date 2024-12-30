@@ -45,4 +45,4 @@ The Fire Festivals are:
 
 ​
 
-[Please contact us for information on Fire Ceremonies in your area](https://www.templeofeiriu.ie/) @ [templeeiriu@gmail.com](mailto://templeeiriu@gmail.com)
+[Please contact us for information on Fire Ceremonies in your area](https://www.templeofeiriu.ie/) @ [templeeiriu@gmail.com](mailto://templeeiriu@gmail.com) or [via online form](/contact-us)

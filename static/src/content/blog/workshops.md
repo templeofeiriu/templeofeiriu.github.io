@@ -169,4 +169,4 @@ Fee: €210 if booked by Jan 31st/ €240 thereafter   (€40 booking) payments 
 Contact
 -------
 
-To find out more information about weddings, ceremonies or teachings at Temple of Éiriú - Celtic Traditions, or if you would like to become a member, and receive our newsletter, please contact us today @ [templeeiriu@gmail.com](mailto://templeeiriu@gmail.com)
+To find out more information about weddings, ceremonies or teachings at Temple of Éiriú - Celtic Traditions, or if you would like to become a member, and receive our newsletter, please contact us today @ [templeeiriu@gmail.com](mailto://templeeiriu@gmail.com)  or [via online form](/contact-us)

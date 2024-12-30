@@ -207,6 +207,6 @@ The Temple of Éiriú holds events and ceremonies throughout the year that hold 
 
 ​
 If you would like further information on these or to be kept informed of upcoming events please contact us @
-[templeeiriu@gmail.com](mailto:templeeiriu@gmail.com)
+[templeeiriu@gmail.com](mailto:templeeiriu@gmail.com) or [via online form](/contact-us)
 
 ![ Ceremonial Harp in Hawthorn Tree.png](../images/Harpintree.jpeg)
