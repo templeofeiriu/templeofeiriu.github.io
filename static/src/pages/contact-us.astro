@@ -1,0 +1,121 @@
+---
+
+// http
+// s://docs.google.com/forms/d/e/1FAIpQLSc7eTAVTfxYwqR3LdQHSx3-6lbKBdBd1rrgjCpxBIXQ06oqnw/viewform
+// Name, Email Address, Comment
+
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+// get previous page from history
+// client only directive
+
+// const PREV_PAGE = document.referrer ? `comment on ${document.referrer}` : 'comment';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+
+<script type="text/javascript">
+  var submitted=false;
+  const changeLocation = () => {
+    // alert('Thank you for your submission');
+    window.location='/form-confirmation';
+  }
+  // document.getElementById('comment')?.value = document.referrer ? `Comment about ${document.referrer}` : 'Comment';
+
+  const submitToGoogleSheet = async (formData) => {
+    return;
+    if(submitted) {alert('already submitted');return;}
+
+    for (const [key, value] of formData) {
+      console.log(`${key}: ${value}\n`);
+    }
+    // const Name = formData.get('Name');
+    // const Email_Address = formData.get('Email_Address');
+    // const Comment = formData.get('Comment');
+
+    const Name = formData.get('entry.1205119680');
+    const Email_Address = formData.get('entry.1982006103');
+    const Comment = formData.get('entry.92443996');
+
+    const sheetPayload = new FormData();
+    sheetPayload.append('entry.1205119680', Name);
+    sheetPayload.append('entry.1982006103', Email_Address);
+    sheetPayload.append('entry.92443996', Comment);
+    sheetPayload.append('submit', 'Submit');/* be */
+    sheetPayload.append('credentials', 'omit');
+    // check for valid Name and Email_Address
+    const _url = 'https://docs.google.com/forms/d/e/1FAIpQLSc7eTAVTfxYwqR3LdQHSx3-6lbKBdBd1rrgjCpxBIXQ06oqnw/formResponse'
+    const url = new URL(_url);
+    // construct url from FormData
+    for (const [key, value] of sheetPayload) {
+      url.searchParams.append(key, value);
+    }
+
+    console.log(Name, Email_Address, sheetPayload);
+    if(!Name || !Email_Address) {
+      alert('Please enter a valid Name / Email Address'); return;
+    }
+
+      const _res = await fetch(_url, {
+      method: 'GET',
+      // follow redirect
+      redirect: 'follow',
+      // body: sheetPayload,
+      mode: 'no-cors',
+      credentials: 'same-origin',
+      headers: {
+        'Content-Type': 'application/x-www-form-urlencoded',
+      }
+    });
+    // redirect to form-confirmation page
+    if(_res.ok ) {
+      console.log('ok');
+      submitted=true;
+    } else {
+      alert('not ok');
+      // submission failed just redirect to form
+      // const hidden_iframe = document.getElementById('hidden_iframe');
+      // // hidden_iframe.src='https://docs.google.com/forms/d/e/1FAIpQLSc7eTAVTfxYwqR3LdQHSx3-6lbKBdBd1rrgjCpxBIXQ06oqnw/viewform?embedded=true';
+      // document.getElementById('astro_form').style.display='none';
+      // hidden_iframe.style.display='block';
+    }
+    console.log(_res);
+    }
+</script>
+      <!-- <iframe  name="hidden_iframe" id="hidden_iframe" width="640" height="727" style="display:none;" src="https://docs.google.com/forms/d/e/1FAIpQLSc7eTAVTfxYwqR3LdQHSx3-6lbKBdBd1rrgjCpxBIXQ06oqnw/viewform?embedded=true"
+       csp="frame-src 'self' https://docs.google.com/; script-src 'self' 'sha256-rjTvv701qyFl5zrSHUjZCanpPXRadxmchVueuiG3GnE='"
+       allow-csp-from="https://docs.google.com"
+      onload="if(submitted) {changeLocation()}"></iframe> -->
+      
+      <div id="astro_form" class="rounded-lg bg-[var(--card-bg)]">
+      <form action="https://docs.google.com/forms/d/e/1FAIpQLSc7eTAVTfxYwqR3LdQHSx3-6lbKBdBd1rrgjCpxBIXQ06oqnw/formResponse" method="get" onsubmit="submitToGoogleSheet(new FormData(this));">
+            <label class="italic font-bold ">Subscribe to the {SITE_TITLE} newsletter: </label>
+            <br />
+            <label class="italic font-bold ">Name:</label>
+            <input autocomplete="name" type="text" placeholder="name" name="entry.1205119680" class="mt-3 px-2 w-full " required />
+            <label class="italic font-bold ">Email Address:</label>
+            <input autocomplete="email" type="email" placeholder="email address" name="entry.1982006103" class="mt-3 px-2 w-full " required />
+            <label class="italic font-bold ">Comment:</label>
+            <textarea placeholder="Comment" name="entry.92443996" class="mt-3 px-2 w-full " 
+             ></textarea>
+            <input name="submit" type="submit" class="font-bold ">Subscribe</input>
+      </form>
+
+      </div>
+
+		</main>
+		<Footer />
+	</body>
+</html>
+
+
+
