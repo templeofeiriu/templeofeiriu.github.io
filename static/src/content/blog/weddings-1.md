@@ -145,8 +145,3 @@ This is not just a service for the wedding day . There is an initial meeting wit
 ### Where can the ceremony be performed?
 
 The ceremony can be performed inside or outside. The space is honoured and made sacred to the elements and decorated with flowers, candles and perfumed with incense.
-
-Contact
--------
-
-To find out more information about weddings, ceremonies or teachings at Temple of Éiriú - Celtic Traditions, or if you would like to become a member, and receive our newsletter, please contact us today.

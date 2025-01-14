@@ -17,34 +17,6 @@ The Temple of Éiriú offers ceremonies in restoration of the Sacred relationshi
 
 [To see our full range of life ceremonies, workshops and events please click here](https://www.templeofeiriu.ie/life-ceremonies)
 
-### The Perfect Wedding
-
-If you love Ireland, her natural world, and myths and stories, then you will love a wedding officiated by Temple Of Éiriú.
-
-​
-
-As our main focus is engaging with the spirit of Ireland and the natural world, there is no one better to marry you and  bring the magic of Ireland to one of the most special days in your life.
-
-​
-
-[Please click here to find out more](https://www.templeofeiriu.ie/weddings-1)
-
-### Fire Festivals
-
-Fire is what holds people together in community and heart. Fire is a place to come together for warmth and connection, not only the physical level, but also emotionally, mentally and spiritually. We gather in community around the sacred fire, and as we hold our intentions for ourselves and others, we can find our stresses and difficulties transformed.
-
-​
-
-[For more information on our Fire Festival Gatherings please click here](https://www.templeofeiriu.ie/fire-festivals)
-
-### Aisling Eala - Swan Dance
-
-The vision of Aisling Éala is to awaken and gather the wisdom that has been left by our ancestors encoded in our stories and in the spirit of the land itself, our beautiful Éiriú. This wisdom can help us navigate the transition time we are now passing through on the earth and guide us to a finer vibrational energy.
-
-​
-
-[Please click here for more information on the Aisling Eala](https://www.templeofeiriu.ie/aisling-eala)
-
 ### Baby Naming Ceremonies
 
 Here the child is welcomed into life by the family and community. The child is blessed into the elements of fire, earth, water, air and ether to help to anchor them in this life and to bring protection and blessing. It is encouraged that the community bring their best intentions for the child, that will help them grow in strength and love.
@@ -64,26 +36,6 @@ The Sweat Lodge ceremony has been performed by indigenous peoples around the wor
 We also advise communities interested in building their own Sweat Lodge.
 
 For more information on upcoming Sweat Lodges please get in touch
-
-### Weavers of the Grail
-
-On this course you will deepen in service to the divine feminine and learn:
-
-To connect with your sisters in a circle to weave blessings and beauty
-
-To connect in ceremony with the natural world
-
-To feel and sense these energies in your body
-
-About focus and intent for ceremony
-
-Where your strengths and challenges lie
-
-How to introduce yourself to a sacred site
-
-​
-
-[To learn more about this and other workshops please click here](https://www.templeofeiriu.ie/workshops)
 
 ### Vision Quests
 
