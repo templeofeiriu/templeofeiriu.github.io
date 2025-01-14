@@ -4,7 +4,7 @@ url: https://www.templeofeiriu.ie/event-info/weaving-bridget
 startDate: '2025-02-01'
 hosts: ["EarthDragún", "OakHeartSinger"]
 location: "An Nead, West Wicklow"
-heroImage: ../images/Karendrummingbeltonystonecircle.png
+heroImage: ../images/https://github.com/templeofeiriu/templeofeiriu.github.io/blob/main/static/src/content/images/Templeroofwithrainbow.jpg
 
 ---
 We invite you to join us at An Nead in West Wicklow, on Saturday 1st of Feb, the site of the Aisling Eala dance, to join with us again in drumming to the land in the morning, seeing whats emerging in this time of welcoming and weaving with Bridget, followed by crawling into the sweat lodge in the afternoon.
