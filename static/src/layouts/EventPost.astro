@@ -79,8 +79,9 @@ const { title, description, hosts, startDate, endDate, location, heroImage } = A
 										Until <FormattedDate date={endDate} />
 									</div>
 								}
-								@ {location} with {hosts.length>0 && hosts.join(",").replace(/,(?=[^,]*$)/, ' and ')
-								}
+								@ {location} with {hosts.length>0 && hosts.map((host, index) => (
+									<a key={index} href={`/profiles/${host.toLowerCase().replace(/\s+/g, '-')}`}>{host}</a>
+								)).reduce((prev, curr) => [prev, ', ', curr])}
 						</div>
 						<h1>{title}</h1>
 						<hr />
@@ -92,4 +93,3 @@ const { title, description, hosts, startDate, endDate, location, heroImage } = A
 		<Footer />
 	</body>
 </html>
-

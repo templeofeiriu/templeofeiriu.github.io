@@ -1,0 +1,60 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { Image } from 'astro:assets';
+
+interface Props {
+  name: string;
+  description: string;
+  avatar: string;
+}
+
+const { name, description, avatar } = Astro.props;
+---
+
+<html lang="en">
+  <head>
+    <BaseHead title={name} description={role} />
+    <style>
+      main {
+        width: calc(100% - 2em);
+        max-width: 100%;
+        margin: 0;
+      }
+      .profile {
+        width: 720px;
+        max-width: calc(100% - 2em);
+        margin: auto;
+        padding: 1em;
+        color: rgb(var(--gray-dark));
+        text-align: center;
+      }
+      .profile img {
+        display: block;
+        margin: 0 auto;
+        border-radius: 50%;
+        box-shadow: var(--box-shadow);
+      }
+      .profile h1 {
+        margin: 0.5em 0;
+      }
+      .profile h2 {
+        margin: 0.5em 0;
+        color: rgb(var(--gray));
+      }
+    </style>
+  </head>
+  <body>
+    <Header />
+    <main>
+      <div class="profile">
+        <Image width={200} height={200} src={avatar} alt={name} />
+        <h1>{name}</h1>
+        <h2>{role}</h2>
+        <slot />
+      </div>
+    </main>
+    <Footer />
+  </body>
+</html>
