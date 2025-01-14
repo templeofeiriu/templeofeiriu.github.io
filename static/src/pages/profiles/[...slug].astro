@@ -1,0 +1,18 @@
+---
+import { getCollection } from 'astro:content';
+import ProfileLayout from '../../layouts/ProfileLayout.astro';
+
+const profiles = await getCollection('profiles');
+const slug = Astro.url.pathname.split('/').pop();
+const profile = profiles.find((p) => p.slug === slug);
+
+if (!profile) {
+  throw new Error(`Profile not found for slug: ${slug}`);
+}
+
+const { name, description, avatar } = profile.data;
+---
+
+<ProfileLayout name={name} description={description} avatar={avatar}>
+  <slot />
+</ProfileLayout>

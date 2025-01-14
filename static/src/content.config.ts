@@ -30,10 +30,13 @@ const eventinfo = defineCollection({
 });
 const profiles = defineCollection({
 	loader: glob({ base: './src/content/profiles', pattern: '**/*.{md,mdx}' }),
-	schema: z.object({
+	schema: ({image}) => z.object({
 		name: z.string().optional(),
 		role: z.string().optional(),
 		avatar: z.string().optional(),
+		title: z.string().optional(),
+		description: z.string().optional(),
+		heroImage: image().optional(),
 	}),
 });
 
