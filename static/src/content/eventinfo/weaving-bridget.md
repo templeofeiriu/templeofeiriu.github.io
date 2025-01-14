@@ -7,6 +7,7 @@ location: "An Nead, West Wicklow"
 heroImage: ../images/Templeroofwithrainbow.jpg
 
 ---
+
 We invite you to join us at An Nead in West Wicklow, on Saturday 1st of Feb, the site of the Aisling Eala dance, to join with us again in drumming to the land in the morning, seeing whats emerging in this time of welcoming and weaving with Bridget, followed by crawling into the sweat lodge in the afternoon.
 The intent of this day is to continue our work of remembering ourselves, our light and our connections, and to bring all that we have learned through this time of deep Winter Dreaming.
 
