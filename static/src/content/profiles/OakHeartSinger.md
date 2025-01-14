@@ -1,5 +1,7 @@
 ---
 title: OakHeartSinger
+description: OakHeartSinger is a mother, Bean Feasa, and Song Carrier weaving together chants from the indigenous traditions she walks with.
+heroImage: ../images/Karendrummingbeltonystonecircle.png
 ---
 
 ![OakHeartSinger](../images/Karendrummingbeltonystonecircle.png)
