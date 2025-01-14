@@ -10,9 +10,9 @@ if (!profile) {
   throw new Error(`Profile not found for slug: ${slug}`);
 }
 
-const { name, role, avatar } = profile.data;
+const { name, description, avatar } = profile.data;
 ---
 
-<ProfileLayout name={name} role={role} avatar={avatar}>
+<ProfileLayout name={name} description={description} avatar={avatar}>
   <slot />
 </ProfileLayout>
