@@ -1,8 +1,10 @@
 ---
-title: TaraCoinsMarkO'Byrne
+title: TaraCoins Mark O'Byrne
 description: Mark O'Byrne founder of Tara Coins
-heroImage: ../pdf/TaraCoinsInfo
+heroImage: ../images/Sunrise0.jpg
 ---
+
+[Tara Coins Info](/pdf/TaraCoinsInfo.pdf)
 
 The Gold and Silver Trees of Life are the first Irish and Celtic gold and silver bullion medals or coins which are 99.99% pure and celebrate Irish and Celtic culture, our ancestors and our spirit.
 ‍

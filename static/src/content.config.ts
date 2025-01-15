@@ -40,4 +40,13 @@ const profiles = defineCollection({
 	}),
 });
 
-export const collections = { blog, eventinfo, profiles };
+const pages = defineCollection({
+	loader: glob({ base: './src/pages', pattern: '**/*.{md,mdx}' }),
+	schema: ({image}) => z.object({
+		title: z.string().optional(),
+		description: z.string().optional(),
+		heroImage: image().optional(),
+	}),
+});
+
+export const collections = { blog, eventinfo, profiles, pages };
