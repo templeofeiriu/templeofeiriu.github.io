@@ -1,6 +1,6 @@
 ---
 pubDate: '2024-06-19'
-updateDate: '2024-06-19'
+updateDate: '2025-03-03'
 description: Aisling Eala Swan Dance
 heroImage: ../images/Swanfamily.png
 title: Aisling Eala | Temple of Éiriú - Celtic Traditions
@@ -75,15 +75,19 @@ Bookings/ Enquiries contact: [aislingeala@gmail.com](mailto:aislingeala@gmail.co
 
 
 Aisling Eala Prayers  
-Autumn 2024
+Autumn 2025
 ----------------------------------
 
 
-![Image 19: Autumn  Equinox Prayers 2024](../images/aislingealaprayers1.png)
+![Image 19: Spring  Equinox Prayers 2025](../images/spring%20equinox%2025%20pg1.png)
 
-![Image 20: Autumn  Equinox Prayers 2024](../images/aislingealaprayers2.png)
+![Image 20: Spring  Equinox Prayers 2025](../images/spring%20equinox%2025%20pg2.png)
 
-![Image 21: Autumn  Equinox Prayers 2024](../images/aislingealaprayers3.png)
+![Image 21: Spring  Equinox Prayers 2025](../images/spring%20equinox%2025%20pg3.png)
+
+![Image 21: Spring  Equinox Prayers 2025](../images/spring%20equinox%2025%20pg4.png)
+
+![Image 21: Spring  Equinox Prayers 2025](../images/spring%20equinox%2025%20pg5.png)
 
 Swan stories from our mythology
 -------------------------------
