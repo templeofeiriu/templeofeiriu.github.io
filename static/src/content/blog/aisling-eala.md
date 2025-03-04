@@ -9,7 +9,7 @@ url: https://www.templeofeiriu.ie/aisling-eala
 ---
 #### Receiving Blessings 
 
-### Autumn Aisling Eala 2024.
+### Spring Aisling Eala 2025.
 
 ### ​
 
@@ -26,7 +26,7 @@ This is a two-day shamanic ceremonial dance at the Spring and Autumn Equinox, to
 
 ​
 
-The next Aisling Eala will be held on Saturday 21st and Sunday 22nd September 2024 for our 14th Swan Dance.
+The next Aisling Eala will be held on Friday 21st and Saturday 22nd March 2025 for our 15th Swan Dance.
 
 ​
 
@@ -34,7 +34,7 @@ Invitation to Shamanic Dance Ceremony
 
 ​
 
-We come together at this Autumn Equinox window, the time when light and dark are in perfect balance, to dance our prayers and our hearts dreaming into the Great Mystery of Life. Welcoming all who feel called to dance and connect to Grandmother Earth, to bless and feel her soft grass beneath bare feet, to participate in this ceremony that is both ancient and new, as the wheel of the year turns and we feel the rising energy of the Age of Aquarius.
+We come together at this Spring Equinox window, the time when light and dark are in perfect balance, to dance our prayers and our hearts dreaming into the Great Mystery of Life. Welcoming all who feel called to dance and connect to Grandmother Earth, to bless and feel her soft grass beneath bare feet, to participate in this ceremony that is both ancient and new, as the wheel of the year turns and we feel the rising energy of the Age of Aquarius.
 
 We open to the healing medicine of Swan during this ceremony, the holder of soverignity and ancestral memory in our mythos.
 
@@ -42,7 +42,7 @@ This outdoor ceremony begins with us greeting and experiencing the blessings of 
 
 ​
 
-Saturday 21st and Sunday 22nd September 2024:
+Friday 21st and Saturday 22nd March 2025:
 
 2 Day Shamanic Ceremonial Dance to reconnect with the enlightened energy of the Swan, the holder of sovereignty and ancestral memory in our mythos. We come together, at this time of the Autumn Equinox, this time of balance to dance our prayers and our hearts dreaming into the great mystery of life.
 
@@ -50,21 +50,21 @@ We will dance outdoors for the day, our moving prayer circle centred around a sa
 
 No previous experience is necessary, but some advance preparation is required so booking is essential.
 
-Saturday 21st September: Checking in, Opening Prayers, deepening into the Land and preparation of the Ceremonial Space, followed by a cleansing Sweat Lodge ceremony, finishing off the day with a Drum and Chant practice.
+Friday 21st March : Checking in, Opening Prayers, deepening into the Land and preparation of the Ceremonial Space, followed by a cleansing Sweat Lodge ceremony, finishing off the day with a Drum and Chant practice.
 
 ​
 
-Sunday 22nd September; Aisling Eala Ceremonial Swan Dance
+Saturday 22nd March; Aisling Eala Ceremonial Swan Dance
 
 Dance chiefs: Trish Cameron & Hilary Healy
 
-Date:  Saturday 21st and Sunday 22nd September
+Date:  Friday 21st and Saturday 22nd March
 
 Venue: Kiltegan, West Wicklow, Ireland
 
-Suggested Donation: €75
+Suggested Donation: €88
 
-Returning Attendees: €50
+Returning Attendees: €55
 
 Team Leader Concessions and other Concessions available, please contact us. [templeeiriu@gmail.com](mailto://templeeiriu@gmail.com)
 
@@ -72,7 +72,7 @@ Link for Donation: [https://www.paypal.com/paypalme/templeofeiriu](http://www.pa
 
 Bookings/ Enquiries contact: [aislingeala@gmail.com](mailto:aislingeala@gmail.com)
 
-![ Aisling Eala Spring Flyer 2024](../images/aislingealaflyer.png)
+
 
 Aisling Eala Prayers  
 Autumn 2024
