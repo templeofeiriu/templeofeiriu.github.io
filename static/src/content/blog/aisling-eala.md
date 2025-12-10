@@ -7,7 +7,7 @@ title: Aisling Eala | Temple of Éiriú - Celtic Traditions
 url: https://www.templeofeiriu.ie/aisling-eala
 
 ---
-#### Receiving Blessings 
+
 
 ### Autumn Aisling Eala 2025.
 
