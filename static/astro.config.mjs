@@ -30,7 +30,7 @@ export default defineConfig({
 		'about-6': '/blog/about-6',
 		'about-3': '/blog/about-3',
 		'information-and-guidelines': '/blog/information-and-guidelines',
-		'recent-newsletter': 'https://us7.campaign-archive.com/?u=595dd0ef2732ce0467c9cdb30&id=c270073da0',
+		'recent-newsletter': 'https://us7.campaign-archive.com/?u=595dd0ef2732ce0467c9cdb30&id=2cbff54579',
 		'awakening-the-songlines-of-the-land': '/blog/awakening-the-songlines-of-the-land',
 		'/contact': '/blog/contact',
 		'home': '/blog/home',
