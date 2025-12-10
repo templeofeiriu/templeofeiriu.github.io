@@ -75,7 +75,7 @@ Bookings/ Enquiries contact: [aislingeala@gmail.com](mailto:aislingeala@gmail.co
 
 
 Aisling Eala Prayers  
-Autumn 2025 to follow
+Autumn 2025 to follow.
 ----------------------------------
 
 
