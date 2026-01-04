@@ -79,15 +79,11 @@ Autumn 2025 to follow.
 ----------------------------------
 
 
-![Image 19: Spring  Equinox Prayers 2025](../images/spring%20equinox%2025%20pg1.png)
+![Image 19: Autumn  Equinox Prayers 2025](../images/AislingEala_AutumnPrayers_2025_1.jpeg)
+![Image 20: Autumn  Equinox Prayers 2025](../images/AislingEala_AutumnPrayers_2025_2.jpeg)
+![Image 21: Autumn  Equinox Prayers 2025](../images/AislingEala_AutumnPrayers_2025_3.jpeg)
 
-![Image 20: Spring  Equinox Prayers 2025](../images/spring%20equinox%2025%20pg2.png)
 
-![Image 21: Spring  Equinox Prayers 2025](../images/spring%20equinox%2025%20pg3.png)
-
-![Image 21: Spring  Equinox Prayers 2025](../images/spring%20equinox%2025%20pg4.png)
-
-![Image 21: Spring  Equinox Prayers 2025](../images/spring%20equinox%2025%20pg5.png)
 
 Swan stories from our mythology
 -------------------------------
