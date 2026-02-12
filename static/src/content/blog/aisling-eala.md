@@ -44,7 +44,7 @@ This outdoor ceremony begins with us greeting and experiencing the blessings of 
 
 Saturday 21st and Sunday 22nd March 2026:
 
-2 Day Shamanic Ceremonial Dance to reconnect with the enlightened energy of the Swan, the holder of sovereignty and ancestral memory in our mythos. We come together, at this time of the Autumn Equinox, this time of balance to dance our prayers and our hearts dreaming into the great mystery of life.
+2 Day Shamanic Ceremonial Dance to reconnect with the enlightened energy of the Swan, the holder of sovereignty and ancestral memory in our mythos. We come together, at this time of the Spring Equinox, this time of balance to dance our prayers and our hearts dreaming into the great mystery of life.
 
 We will dance outdoors for the day, our moving prayer circle centred around a sacred oak tree. Participants can dance the prayers of their own heart, for Éiriú, and beyond.  Please see the more detailed prayers to follow.
 
@@ -66,7 +66,7 @@ Suggested Donation: €100
 
 Returning Attendees: €65
 
-Team Leader Concessions and other Concessions available, please contact us. [templeeiriu@gmail.com](mailto://templeeiriu@gmail.com)
+Concessions available, please contact us. [templeeiriu@gmail.com](mailto://templeeiriu@gmail.com)
 
 Link for Donation: [https://www.paypal.com/paypalme/templeofeiriu](http://www.paypal.me/templeofeiriu)
 
