@@ -9,7 +9,7 @@ url: https://www.templeofeiriu.ie/aisling-eala
 ---
 
 
-### Autumn Aisling Eala 2025.
+### Spring Equinox Aisling Eala 2026.
 
 ### ​
 
