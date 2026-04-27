@@ -10,7 +10,7 @@ description: Workshops | Temple of Éiriú - Celtic Traditions
 
 ![Feathered Serpent](../images/FeatheredSerpent.jpeg)
 
-New course starting in May 2025 - Enquire now to book your place
+New course starting in July 2026 - Enquire now to book your place
 
 This is an in depth Apprenticeship Training Course for those who are called to facilitate Sacred Sexuality Circles for Women or to incorporate the teachings offered into their present chosen work. It is also for those who are currently holding circles and feel they need mentoring and support in this sacred work;  
 Trish Cameron LightningStar has over 35 years experience working in this area in both the ordinary working world and in her Medicine (Shamanic) training.  
