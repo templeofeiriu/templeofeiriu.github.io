@@ -101,15 +101,7 @@ Thank you Trish for a very meaningful and personal wedding ceremony. Everyone lo
 I'm not great at putting things into words but my experience of our marriage ceremony was a magical day for me. It was spiritual, full of love and emotional. It was a day that I’ll never forget for the rest of my life.  
 (Photo courtesy of Tony Swan)
 
-### Maria and Richie
-
-![Image 42: Anna and Dave McMahon.jpg](../images/91cd4bbbee.jpeg)
-
-Trish worked with us to provide our dream wedding ceremony making the day very special and one we will remember forever. Her fluidity made it easy for us to include many of our friends and family in the ceremony which was very important, and really made the ceremony personal. Thank you so much.
-
-​
-
-### Anna and Dave McMahon
+### Maria and Rich
 
 ![Eoin and Ruth Hagan](../images/f31b7ec839.jpeg)
 
