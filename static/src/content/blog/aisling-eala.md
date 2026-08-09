@@ -9,7 +9,7 @@ url: https://www.templeofeiriu.ie/aisling-eala
 ---
 
 
-### Spring Equinox Aisling Eala 2026.
+
 
 ### ​
 
@@ -26,7 +26,7 @@ This is a two-day shamanic ceremonial dance at the Spring and Autumn Equinox, to
 
 ​
 
-The next Aisling Eala will be held on Saturday 21st and Sunday 22nd March 2026 for our 17th Swan Dance.
+The next Aisling Eala will be held on Saturday 19th and Sunday 20th September 2026 for our 18th Swan Dance.
 
 ​
 
@@ -34,7 +34,7 @@ Invitation to Shamanic Dance Ceremony
 
 ​
 
-We come together at this Vernal Spring Equinox window, the time when light and dark are in perfect balance, to dance our prayers and our hearts dreaming into the Great Mystery of Life. Welcoming all who feel called to dance and connect to Grandmother Earth, to bless and feel her soft grass beneath bare feet, to participate in this ceremony that is both ancient and new, as the wheel of the year turns and we feel the rising energy of the Age of Aquarius and the coming of the Chinese year of the Fire Horse.
+We come together at this Autumn Equinox window, the time when light and dark are in perfect balance, to dance our prayers and our hearts dreaming into the Great Mystery of Life. Welcoming all who feel called to dance and connect to Grandmother Earth, to bless and feel her soft grass beneath bare feet, to participate in this ceremony that is both ancient and new, as the wheel of the year turns and we feel the rising energy of the Age of Aquarius and the coming of the Chinese year of the Fire Horse.
 
 We open to the healing medicine of Swan during this ceremony, the holder of soverignity and ancestral memory in our mythos.
 
@@ -42,7 +42,7 @@ This outdoor ceremony begins with us greeting and experiencing the blessings of 
 
 ​
 
-Saturday 21st and Sunday 22nd March 2026:
+Saturday 19th and Sunday 20th September 2026:
 
 2 Day Shamanic Ceremonial Dance to reconnect with the enlightened energy of the Swan, the holder of sovereignty and ancestral memory in our mythos. We come together, at this time of the Spring Equinox, this time of balance to dance our prayers and our hearts dreaming into the great mystery of life.
 
@@ -50,15 +50,15 @@ We will dance outdoors for the day, our moving prayer circle centred around a sa
 
 No previous experience is necessary, but some advance preparation is required so booking is essential.
 
-Saturday 21st March : Checking in, deepening into the Land and preparation of the Ceremonial Space, followed by a cleansing Sweat Lodge ceremony, finishing off the day with a Drum and Chant practice.
+Saturday 19th of September : Checking in, deepening into the Land and preparation of the Ceremonial Space, followed by a cleansing Sweat Lodge ceremony, finishing off the day with a Drum and Chant practice.
 
 ​
 
-Sunday 22nd March: Aisling Eala Ceremonial Swan Dance
+Sunday 20th September: Aisling Eala Ceremonial Swan Dance
 
 Dance chiefs: Trish Cameron & Hilary Healy
 
-Date:  Saturday 21st and 22nd of March 2026
+Date:  Saturday 19th and 20th of September 2026
 
 Venue: Kiltegan, West Wicklow, Ireland
 
@@ -75,13 +75,8 @@ Bookings/ Enquiries contact: [aislingeala@gmail.com](mailto:aislingeala@gmail.co
 
 
 Aisling Eala Prayers  
-Spring 2026 Prayers to follow.
+Autumn 2026 Prayers to follow.
 ----------------------------------
-
-
-![Image 19: Autumn  Equinox Prayers 2025](../images/AislingEala_AutumnPrayers_2025_1.jpeg)
-![Image 20: Autumn  Equinox Prayers 2025](../images/AislingEala_AutumnPrayers_2025_2.jpeg)
-![Image 21: Autumn  Equinox Prayers 2025](../images/AislingEala_AutumnPrayers_2025_3.jpeg)
 
 
 
