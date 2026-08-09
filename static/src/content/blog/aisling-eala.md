@@ -44,7 +44,7 @@ This outdoor ceremony begins with us greeting and experiencing the blessings of 
 
 Saturday 19th and Sunday 20th September 2026:
 
-2 Day Shamanic Ceremonial Dance to reconnect with the enlightened energy of the Swan, the holder of sovereignty and ancestral memory in our mythos. We come together, at this time of the Spring Equinox, this time of balance to dance our prayers and our hearts dreaming into the great mystery of life.
+2 Day Shamanic Ceremonial Dance to reconnect with the enlightened energy of the Swan, the holder of sovereignty and ancestral memory in our mythos. We come together, at this time of the Autumn Equinox, this time of balance to dance our prayers and our hearts dreaming into the great mystery of life.
 
 We will dance outdoors for the day, our moving prayer circle centred around a sacred oak tree. Participants can dance the prayers of their own heart, for Éiriú, and beyond.  Please see the more detailed prayers to follow.
 
@@ -54,7 +54,7 @@ Saturday 19th of September : Checking in, deepening into the Land and preparatio
 
 ​
 
-Sunday 20th September: Aisling Eala Ceremonial Swan Dance
+Sunday 20th September: 18th Aisling Eala Ceremonial Swan Dance
 
 Dance chiefs: Trish Cameron & Hilary Healy
 
